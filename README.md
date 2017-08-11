@@ -6,7 +6,7 @@
 开发环境详见：https://www-ssl.intel.com/content/www/us/en/do-it-yourself/get-help.html<br />
 &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;http://www.intel.com/support/galileo/sb/CS-035168.htm<br />
 <br />
-最终目标：使用摄像头、超声波采集的数据，控制电机，完成壁障赛道自动行走、使用手机完成外网穿透控制小车监控家内情况<br />
+最终目标：使用摄像头、超声波采集的数据，控制电机，完成壁障赛道自动行走、使用手机完成外网穿透控制小车监控家内情况（openWRT、完成一半）、小车自主拍照得到的图片自主发微博<br />
 <br />
 模块介绍：1.IntelGalileo Gen2（一块）、网卡（一块）、天线（一根）<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;2.小车底座（一辆）<br />
