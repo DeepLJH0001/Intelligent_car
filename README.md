@@ -9,16 +9,16 @@
 最终目标：使用摄像头、超声波采集的数据，控制电机，完成壁障赛道自动行走、使用手机完成外网穿透控制小车监控家内情况<br />
 <br />
 模块介绍：1.IntelGalileo Gen2（一块）、网卡（一块）、天线（一根）<br />
-&emsp;&emsp;2.小车底座（一辆）<br />
-&emsp;&emsp;3.12V-3A电池（一个）<br />
-&emsp;&emsp;4.电机驱动模块（一个）<br />
-&emsp;&emsp;5.电源稳压模块（一个）<br />
-&emsp;&emsp;6.测速传感器（两个）<br />
-&emsp;&emsp;7.超声波模块（一个）<br />
-&emsp;&emsp;8.舵机（一个）<br />
-&emsp;&emsp;9.摄像头（一个）<br />
-&emsp;&emsp;10:usb转串口模块<br />
-&emsp;&emsp;11.零件<br />
+&emsp;&emsp;&emsp;&emsp;2.小车底座（一辆）<br />
+&emsp;&emsp;&emsp;&emsp;3.12V-3A电池（一个）<br />
+&emsp;&emsp;&emsp;&emsp;4.电机驱动模块（一个）<br />
+&emsp;&emsp;&emsp;&emsp;5.电源稳压模块（一个）<br />
+&emsp;&emsp;&emsp;&emsp;6.测速传感器（两个）<br />
+&emsp;&emsp;&emsp;&emsp;7.超声波模块（一个）<br />
+&emsp;&emsp;&emsp;&emsp;8.舵机（一个）<br />
+&emsp;&emsp;&emsp;&emsp;9.摄像头（一个）<br />
+&emsp;&emsp;&emsp;&emsp;10:usb转串口模块<br />
+&emsp;&emsp;&emsp;&emsp;11.零件<br />
 <br />
 模块图片<br />
 ![](https://github.com/DeepLJH0001/Intelligent_car/blob/master/image/%E6%97%A0%E6%A0%87%E9%A2%98.png?raw=true)
