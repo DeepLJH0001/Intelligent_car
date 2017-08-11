@@ -18,6 +18,10 @@
 &emsp;10:usb转串口模块
 &emsp;11.零件
 <br />
+模块图片<br />
+![](https://github.com/DeepLJH0001/Intelligent_car/blob/master/image/%E6%97%A0%E6%A0%87%E9%A2%98.png?raw=true)
+<br />
+<br />
 开发板电路图及其参数<br />
 <br />
 ![](https://github.com/DeepLJH0001/Intelligent_car/blob/master/image/QQ%E5%9B%BE%E7%89%8720170811103530.jpg?raw=true)
