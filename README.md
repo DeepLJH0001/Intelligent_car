@@ -6,7 +6,7 @@
 &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;http://www.intel.com/support/galileo/sb/CS-035168.htm<br />
 开发板电路图及其参数<br />
 ![](https://github.com/DeepLJH0001/Intelligent_car/blob/master/image/QQ%E5%9B%BE%E7%89%8720170811103530.jpg?raw=true)
-![](https://github.com/DeepLJH0001/Intelligent_car/blob/master/image/QQ%E6%88%AA%E5%9B%BE20170811103617.png?raw=true)
-手机端（安卓实现）
+![](https://github.com/DeepLJH0001/Intelligent_car/blob/master/image/QQ%E6%88%AA%E5%9B%BE20170811103617.png?raw=true)<br />
+手机端（安卓实现）<br />
 ![](https://github.com/DeepLJH0001/Intelligent_car/blob/master/image/Screenshot_2017-08-11-10-59-54-721_com.atr.Car_v2.png?raw=true)
 ![](https://github.com/DeepLJH0001/Intelligent_car/blob/master/image/Screenshot_2017-08-11-11-00-06-983_com.atr.Car_v2.png?raw=true)
