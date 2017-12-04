@@ -1,5 +1,6 @@
 # Intelligent_car
 # 智能小车 <br />
+厦大-海西协同创新项目 参见http://open.wscec.com/
 主要功能：使用IntelGalileo Gen2开发板组装小车，实现基本的gpio控制（电机、舵机）、数据采集（摄像头和超声波测距）、手机端小车端的通讯与控制等。
 开发板本身支持ardunio，但这次所做主要使用busybox裁剪的linux系统完成、这样减少了一部分传感器驱动程序的编写。<br />
 <br />
